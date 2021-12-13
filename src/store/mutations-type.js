@@ -1,0 +1,14 @@
+export const Set_Full_Screen = 'Set_Full_Screen';
+export const Set_Mini_Player = 'Set_Mini_Player';
+export const Set_List_Player = 'Set_List_Player';
+export const Set_Is_Playing = 'Set_Is_Playing';
+export const Set_Mode_Type = 'Set_Mode_Type';
+export const SET_SONG_DETAIL = 'SET_SONG_DETAIL';
+export const SET_DEL_DETAIL = 'SET_DEL_DETAIL';
+export const SET_Cut_Index = 'SET_Cut_Index';
+export const SET_SONG_Lyric = 'SET_SONG_Lyric';
+export const SET_Cur_Time = 'SET_Cur_Time';
+export const SET_Favorite_Song = 'SET_Favorite_Song';
+export const SET_Favorite_List = 'SET_Favorite_List';
+export const SET_History_Song = 'SET_History_Song';
+export const SET_History_List = 'SET_History_List';
